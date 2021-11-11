@@ -1,4 +1,5 @@
 /vendor/
+/storage/
 node_modules/
 npm-debug.log
 yarn-error.log
@@ -20,4 +21,13 @@ storage/*.key
 Homestead.yaml
 Homestead.json
 /.vagrant
+/.settings
 .phpunit.result.cache
+.scannerwork/
+.buildpath
+.project
+.settings
+nbproject/*
+.scannerwork/
+.vscode/*
+.DS_Store
